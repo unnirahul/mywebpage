@@ -27,3 +27,7 @@ title: Shareholder's Equity
         + Usually does not in service inductry
     - <em>**Profits are part of income statement**</em>
 5. Accumulated losses is deducted
+
+---
+
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

@@ -25,5 +25,5 @@ title: Solvency Ratios
         + A decline could mean that company is taking more ong term obligation 
 
 ---
-<a href="../summary.html" name="#user-content-ratios">Back to Summary</a>
 
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

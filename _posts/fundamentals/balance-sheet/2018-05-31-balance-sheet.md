@@ -28,3 +28,6 @@ title: Balance Sheet
 1.  Company owner's claims on the company's total assets.
 2.  Owner's  investments in the company as well as the <em>aggregate undisributed profits</em> called retained earnings.
 
+---
+
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

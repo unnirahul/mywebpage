@@ -87,3 +87,8 @@ title: Income Statement
         + Investor would prefer that difference bewteen basic and diluted EPS would not be very large
     - **Retained Earnings**
         + **Net Income - Dividends**
+
+
+---
+
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

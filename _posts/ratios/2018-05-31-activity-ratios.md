@@ -68,6 +68,6 @@ title: Activity Ratios
         + Working capital is managed very well, and has cash available for other things.  
     - Amazon = 20.53 + 47.23 - 91.40 = - 23.64  
 
-<hr>
+---
 
-<a href="summary.html" name="#user-content-ratios">Back to Summary</a>
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

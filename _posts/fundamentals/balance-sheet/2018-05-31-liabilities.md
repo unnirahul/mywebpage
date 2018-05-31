@@ -20,3 +20,7 @@ title: Liabilities
             *   Will be liability untill the delivery is made.
     2. Non current Liabilities
         - Long term debt (loans and bonds)
+
+---
+
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

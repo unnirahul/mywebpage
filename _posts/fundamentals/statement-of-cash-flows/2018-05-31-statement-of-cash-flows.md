@@ -16,3 +16,7 @@ title: Cash Flow Statement
 3.  - Cash flow from non current assets
 3.  Cash flow from financing activities
     - Cash flow from non-current liabilities and shareholder's equity
+
+---
+
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

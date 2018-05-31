@@ -50,3 +50,7 @@ title: Cash flow from Operating Activities
 4. Net Cash Flow from Operating Activies
     - **Net Income + Non-operations-related adjustments + Operations related Adjustments**  
         > 0.06+8.78+2.54 = 11.92
+
+---
+
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

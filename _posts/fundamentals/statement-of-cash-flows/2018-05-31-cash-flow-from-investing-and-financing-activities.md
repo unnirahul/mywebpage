@@ -36,4 +36,7 @@ title: Cash flow from Investing and Financing Activities
 > Amazon = 11.92+(-6.45)+(-3.76)+(-0.37) = **$1.33B**  
 ---
 > ## Total Cash and Cash Equivalents = Initial CCE (year begining) + End CCE (year end)
+
 ---
+
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

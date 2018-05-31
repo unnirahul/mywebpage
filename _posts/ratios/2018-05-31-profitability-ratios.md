@@ -27,5 +27,6 @@ title: Profitability Ratios
     4. Net profit marging  (Amazon = 0.53%, means that other expenses amount to almost all of the remaining 1/3rd of revenue)
         - Net income/Revenue
 
-<hr>
-<a href="summary.html" name="#user-content-ratios">Back to Summary</a>
+---
+
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

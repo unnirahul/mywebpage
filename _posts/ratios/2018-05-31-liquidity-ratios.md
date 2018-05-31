@@ -17,4 +17,6 @@ title: Liquidity Ratios
 4.  Cash ratio
     - Ignores accounts receivable as well, because it depends on when customer is willing to pay
     - **(Cash and cash equivalents)/CL**
-    - 
+
+---
+<a href="/index.md" name="#user-content-ratios">Back to Summary</a>

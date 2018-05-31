@@ -29,15 +29,15 @@ title: Financial Statement Analysis
 ---
 
 ### <a name="ratios">Ratios</a>  
-1. [Profitability Ratios](profitability-ratios)  
+1. [Profitability Ratios]({% post_url 2018-05-31-profitability-ratios %})
     - Ability of a company to generate profits from its various resources  
-2. [Activiy ratios](activity-ratios)  
+2. [Activiy ratios]({% post_url 2018-05-31-activity-ratios %})  
     - Ability of a company to convert its various assets and liabilities into cash or sales  
-3. [Solvency ratios](solvency-ratios) 
+3. [Solvency ratios]({% post_url 2018-05-31-solvency-ratios %}) 
     - Measure if company has sufficient cash to meet its long term financial comittements   
-4. [Liquidity ratios](liquidity-ratios) 
+4. [Liquidity ratios]({% post_url 2018-05-31-liquidity-ratios %})
     - Measure if company has sufficient cash to meet its short term financial comittements  
-5. [Valuation ratios](valuation-ratios)   
+5. [Valuation ratios]({% post_url 2018-05-31-valuation-ratios %})
     - Commpare the current market price of the companies stock to certain items in the financial statement  
 
 ---

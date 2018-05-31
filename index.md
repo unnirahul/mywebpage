@@ -21,7 +21,9 @@
 3. [Ratio analysis](#user-content-ratios)  
     - Relation between 2 or more economically important items 
     - less data
+
 ---
+
 ### Approaches used
 1. Time series analysis★  
     - Compare a firm with itself over time  
@@ -29,7 +31,8 @@
     - Compare different companies in an industry at a given point in time  
 3. Benchmark comparison  
     - Use pre-specified benchamrks for analysis  
-<hr>
+
+---
 
 ### <a name="ratios">Ratios</a>  
 1. [Profitability Ratios](profitability-ratios)  

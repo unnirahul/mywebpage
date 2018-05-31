@@ -10,6 +10,7 @@
     - [Cash flow from operating activities](cash-flow-from-operating-activities)
     - [Cash flow from Investing and Financing Activities](cash-flow-from-investing-and-financing-activities)
 ---
+
 ### Items
 1. Comparitive Analysis  
     -   Consecutive statements of a company  

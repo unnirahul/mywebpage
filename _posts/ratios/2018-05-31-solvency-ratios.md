@@ -26,4 +26,4 @@ title: Solvency Ratios
 
 ---
 
-<a href="/index.md" name="#user-content-ratios">Back to Summary</a>
+<a href="/" name="#user-content-ratios">Back to Summary</a>

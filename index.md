@@ -1,14 +1,14 @@
 <h1>Financial Statement Analysis</h1>
 
 ### Fundamentals
-1. [Balance Sheet](_posts/fundamentals/balance-sheet/balance-sheet.html)
-    - [Assets](_posts/fundamentals/balance-sheet/assets.html)
-    - [Liabilities](_posts/fundamentals/balance-sheet/liabilities.html)
-    - [Shareholder's Equity](_posts/fundamentals/balance-sheet/shareholders-equity.html)
-2.  [Income Statement](_posts/fundamentals/income-statement/income-statement.html)
-3.  [Statement of Cash Flows](_posts/fundamentals/statement-of-cash-flows/statement-of-cash-flows.html)
-    - [Cash flow from operating activities](fundamentals/statement-of-cash-flows/cash-flow-from-operating-activities.html)
-    - [Cash flow from Investing and Financing Activities](_posts/fundamentals/statement-of-cash-flows/cash-flow-from-investing-and-financing-activities.html)
+1. [Balance Sheet](balance-sheet)
+    - [Assets](assets)
+    - [Liabilities](liabilities)
+    - [Shareholder's Equity](shareholders-equity)
+2.  [Income Statement](income-statement)
+3.  [Statement of Cash Flows](statement-of-cash-flows)
+    - [Cash flow from operating activities](cash-flow-from-operating-activities)
+    - [Cash flow from Investing and Financing Activities](cash-flow-from-investing-and-financing-activities)
 ---
 ### Items
 1. Comparitive Analysis  
@@ -30,13 +30,13 @@
 <hr>
 
 ### <a name="ratios">Ratios</a>  
-1. [Profitability Ratios](_posts/ratios/profitability-ratios.html)  
+1. [Profitability Ratios](profitability-ratios)  
     - Ability of a company to generate profits from its various resources  
-2. [Activiy ratios](_posts/ratios/activity-ratios.html)  
+2. [Activiy ratios](activity-ratios)  
     - Ability of a company to convert its various assets and liabilities into cash or sales  
-3. [Solvency ratios](_posts/ratios/solvency-ratios.html) 
+3. [Solvency ratios](solvency-ratios) 
     - Measure if company has sufficient cash to meet its long term financial comittements   
-4. [Liquidity ratios](_posts/ratios/liquidity-ratios.html) 
+4. [Liquidity ratios](liquidity-ratios) 
     - Measure if company has sufficient cash to meet its short term financial comittements  
-5. [Valuation ratios](_posts/ratios/valuation-ratios.html)   
+5. [Valuation ratios](valuation-ratios)   
     - Commpare the current market price of the companies stock to certain items is the financial statement  

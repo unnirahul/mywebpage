@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Balance Sheet
-permalink: /:categories/
+permalink: /:categories/:title/
+catagories: fundamentals
 ---
 
 # Balance Sheet 

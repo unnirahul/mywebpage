@@ -50,9 +50,8 @@ title: Income Statement
     - loss of inventory becuase of fire etc
 7.  **Taxes**
 8.  **EPS**
-    - 
 
-
+---
 
 3. Profit measure 
     - **Gross Profit** 

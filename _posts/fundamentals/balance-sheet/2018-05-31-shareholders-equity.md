@@ -31,3 +31,4 @@ title: Shareholder's Equity
 ---
 
 <a href="/" name="#user-content-ratios">Back to Summary</a>
+<a href="/" style="text:align:right">Back to Summary</a>

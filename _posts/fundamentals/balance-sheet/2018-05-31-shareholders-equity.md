@@ -31,7 +31,7 @@ title: Shareholder's Equity
 ---
 
 <div 
-    <a href="/" name="#user-content-ratios" style="text-align: left">Back to Summary</a>
+    <a href="/" name="#user-content-ratios" style="text-align: left;">Back to Summary</a>
     [Dupoint anlysis]({% post_url 2018-05-31-dupoint-identity %})
 </div>
 

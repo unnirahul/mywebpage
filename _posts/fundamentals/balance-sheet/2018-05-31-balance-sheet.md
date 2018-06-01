@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Balance Sheet
+permalink: /:categories/
 ---
 
 # Balance Sheet 

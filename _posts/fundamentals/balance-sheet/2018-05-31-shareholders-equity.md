@@ -2,6 +2,7 @@
 layout: default
 title: Shareholder's Equity
 catagories: fundamentals balance-sheet
+permalink: /:categories/:title/
 ---
 
 ## **Shareholder's equity**
@@ -31,9 +32,7 @@ catagories: fundamentals balance-sheet
 
 ---
 
-<div> 
-    <a href="/" name="#user-content-ratios" style="text-align: right;">Back to Summary</a>
-    {%[Dupoint Anlysis]({% post_url 2018-05-31-dupoint-identity %})%}
-</div>
+<a href="/" name="#user-content-ratios" style="text-align: right;">Back to Summary</a>
+[Dupoint Anlysis]({% post_url 2018-05-31-dupoint-identity %})
 
 

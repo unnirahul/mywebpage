@@ -1,3 +1,8 @@
+---
+layout: page
+title: Summary
+---
+
 <h1>Financial Statement Analysis</h1>
 
 ### Fundamentals

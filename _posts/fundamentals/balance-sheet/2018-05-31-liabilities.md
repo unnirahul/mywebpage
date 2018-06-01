@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Liabilities
+catagories: fundamentals balance-sheet
 ---
 
 # Liabilities

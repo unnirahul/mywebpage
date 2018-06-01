@@ -2,7 +2,6 @@
 layout: default
 title: Shareholder's Equity
 catagories: fundamentals balance-sheet
-permalink: /:categories/:title/
 ---
 
 ## **Shareholder's equity**

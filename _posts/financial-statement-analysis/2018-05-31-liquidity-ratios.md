@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Liquidity Ratios
+catagories: financial-statement-analysis
 ---
 
 <h1>Liguidity Ratios</h1>  

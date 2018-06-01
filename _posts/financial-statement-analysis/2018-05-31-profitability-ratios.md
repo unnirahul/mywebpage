@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Profitability Ratios
+catagories: financial-statement-analysis
 ---
 
 <h1>Profitability Ratios</h1>  

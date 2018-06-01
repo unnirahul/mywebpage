@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Valuation Ratios
+catagories: financial-statement-analysis
 ---
 
 There are two major valuation rations

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cash flow from Investing and Financing Activities
+catagories: fundamentals balance-sheet
 ---
 
 # Cash flow from Investing and Financing Activities

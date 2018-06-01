@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cash Flow Statement
+catagories: fundamentals balance-sheet
 ---
 
 # Cash Flow Statement

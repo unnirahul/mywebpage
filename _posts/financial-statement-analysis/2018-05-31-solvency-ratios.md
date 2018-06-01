@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Solvency Ratios
+catagories: financial-statement-analysis
 ---
 
 <h1>Solvency Ratios</h1>  

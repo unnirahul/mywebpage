@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Activity Ratios
+catagories: financial-statement-analysis
 ---
 
 <h1>Activity Ratios</h1>  

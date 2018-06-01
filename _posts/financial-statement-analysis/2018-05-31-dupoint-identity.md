@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dupoint Indentity
+catagories: financial-statement-analysis
 ---
 
 Relates ROE to various financial rations

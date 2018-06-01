@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Financial Statement Analysis
+catagories: financial-statement-analysis
 ---
 
 <h1>Financial Statement Analysis</h1>

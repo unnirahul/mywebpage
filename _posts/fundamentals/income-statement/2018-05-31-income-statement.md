@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Income Statement
+catagories: fundamentals balance-sheet
 ---
 
 # Income Statement or Profit & Loss statement

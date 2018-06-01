@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cash flow from Operating Activities
+catagories: fundamentals balance-sheet
 ---
 
 # Cash flow from operating activities

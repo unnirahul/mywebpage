@@ -7,7 +7,7 @@ title: Summary
 
 ### Fundamentals
 1. [Balance Sheet]({% post_url 2018-05-31-balance-sheet %})
-    - [Assets](assets)
+    - [Assets]({% post_url 2018-05-31-assets %})
     - [Liabilities]({% post_url 2018-05-31-liabilities %})
     - [Shareholder's Equity]({% post_url 2018-05-31-shareholders-equity %})
 2.  [Income Statement]({% post_url 2018-05-31-income-statement %})

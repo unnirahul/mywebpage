@@ -11,11 +11,11 @@ catagories: fundamentals balance-sheet
 <em>Income statement does not track changes to cash as everything recorded on an accrual basis.</em>
 
 ## Catagories
-1.  Cash flow from operating activities
+1.  [Cash flow from operating activities]({% post_url 2018-05-31-cash-flow-from-operating-activities %})
     - Cash flow from operations related current assets and liabilities
-2.  Cash flow from investing activties
-3.  - Cash flow from non current assets
-3.  Cash flow from financing activities
+2.  [Cash flow from investing activties]({% post_url 2018-05-31-cash-flow-from-investing-and-financing-activities %})
+    - Cash flow from non current assets
+3.  [Cash flow from financing activities]({% post_url 2018-05-31-cash-flow-from-investing-and-financing-activities %})
     - Cash flow from non-current liabilities and shareholder's equity
 
 ---

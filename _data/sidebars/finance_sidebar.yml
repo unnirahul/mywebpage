@@ -1,0 +1,111 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Finance
+  product: Finance
+  version: 1.0
+  folders:
+
+  - title:
+    output: web
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction        
+    output: web, pdf
+    folderitems:
+
+    - title: Summary
+      output: web, pdf
+      url: /finance-summary.html
+    
+  - title: Balance Sheet
+    output: web, pdf
+    folderitems:
+
+      - title: Assets
+        url: /assets.html
+        output: web
+
+      - title: Balance Sheet
+        url: /balance-sheet.html
+        output: web, pdf
+
+      - title: Liabilities
+        url: /liabilities.html
+        output: web, pdf
+  
+      - title: Shareholder's Equity
+        url: /shareholders-equity.html
+        output: web, pdf
+        
+  - title: Income statement
+    output: web, pdf
+    folderitems: 
+    
+    - title: Income Statement
+      url: /income-statement.html
+      output: web, pdf      
+  
+  - title: Statement of Cash Flows
+    output: web, pdf
+    folderitems:
+ 
+      - title: Statement of Cash Flows
+        url: /statement-of-cash-flows.html
+        output: web
+      
+      - title: Cash flow from Investing and Financial activities
+        url: /cash-flow-from-investing-and-financing-activities.html
+        output: web
+
+      - title: Cash flow from Operating Activities
+        url: /cash-flow-from-operating-activities.html
+        output: web, pdf
+
+  - title: Financial Statement Analysis
+    output: web, pdf
+    folderitems:
+ 
+      - title: Financial Statement Analysis
+        url: /financial-statement-analysis.html
+        output: web
+     
+      - title: Activity Ratios
+        url: /activity-ratios.html
+        output: web
+      
+      - title: Valuation Ratios
+        url: /valuation-ratios.html
+        output: web, pdf
+        
+      - title: Dupoint Identity
+        url: /dupoint-identity.html
+        output: web
+
+      - title: PE Ratio
+        url: /pe-ratio.html
+        output: web
+
+      - title: Liquidity Ratios
+        url: /liquidity-ratios.html
+        output: web, pdf
+    
+      - title: Profitability Ratios
+        url: /profitability-ratios.html
+        output: web
+      
+      - title: Solvency Ratios
+        url: /solvency-ratios.html
+        output: web
+
+
+  

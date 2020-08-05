@@ -1,0 +1,20 @@
+---
+title: P/E Ratio
+permalink: pe-ratio.html
+catagories: financial-statement-analysis
+sidebar: finance_sidebar
+---
+
+
+PE Ratio = MArket price of comany's share on the date of the income statement/EPS
+
+How much investors are willing to pay for each dollor of profits made by the company.
+Future growth potential
+
+Too large compared to other could mean that it is overpriced.
+
+As of December 31, 2015, Amazon's stock price was $675.89. We can calculate the P/E ratio using both basic, as well as diluted EPS. 
+For simplicity, we will use the basic EPS of $1.28. Dividing the share prices of $675.89 by the EPS of $1.28, gives an EPS of 528.04. For each $1 in profits earned, investors are willing to pay $528.04. 
+
+This could mean that investors place a very high value on Amazon's future growth potential. Alternatively, Amazon's stock price is far higher than what its fundamentals justify, and should be sold. In the two of the past four years, Amazon has had negative P/E ratios. 
+It is impossible to interpret a negative P/E ratio, as it does not make any sense as to why investors would be willing to pay anything for a company that is making losses. 

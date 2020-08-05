@@ -1,0 +1,22 @@
+---
+title: Assets
+permalink: assets.html
+catagories: fundamentals balance-sheet
+sidebar: finance_sidebar
+---
+
+1. Current Assets
+    - Investment side 
+        +   Cash and cash equivalents (cash, cheques, less than 3 months)
+        +   Marketable securities (not as liquid as cash)
+    -   Operations side
+        +   Inventories (may be supplies bought for delivery of services in case of service industry)
+        +   Account Receivables (All money owned to company by client, customer)
+2. Non current Assets
+    * PP&E
+    * Intangible assets
+        - Patents, trademarks, copyright, goodwill, brand recognition
+
+---
+
+<a href="/" name="#user-content-ratios">Back to Summary</a>
